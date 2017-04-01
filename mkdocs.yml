@@ -5,6 +5,6 @@ pages:
   - BOT: bot.md
   - Whitepaper: whitepaper.md
   - POC:
-    - ABOT: 'poc/abod.md'
+    - ABOT: 'poc/abot.md'
   - Misc: misc.md
 theme: readthedocs
