@@ -1,0 +1,9 @@
+site_name: Allbot
+pages:
+  - Welcome: index.md
+  - About: about.md
+  - Whitepaper: whitepaper.md
+  - POC:
+    - ABOT: 'poc/abod.md'
+  - Misc: misc.md
+theme: readthedocs
