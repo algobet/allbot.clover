@@ -1,7 +1,8 @@
 site_name: Allbot
 pages:
-  - Welcome: index.md
+  - Home: index.md
   - About: about.md
+  - BOT: bot.md
   - Whitepaper: whitepaper.md
   - POC:
     - ABOT: 'poc/abod.md'
